@@ -48,7 +48,7 @@
       <UseGlobalSpeechAnimationDelay>False</UseGlobalSpeechAnimationDelay>
       <GlobalSpeechAnimationDelay>5</GlobalSpeechAnimationDelay>
       <LegacySpeechAnimationSpeed>False</LegacySpeechAnimationSpeed>
-      <NumberDialogOptions>KeyShortcutsOnly</NumberDialogOptions>
+      <NumberDialogOptions>None</NumberDialogOptions>
       <DialogOptionsBackwards>False</DialogOptionsBackwards>
       <SpeechPortraitSide>Left</SpeechPortraitSide>
       <TextWindowGUI>0</TextWindowGUI>
