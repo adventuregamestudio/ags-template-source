@@ -6,9 +6,9 @@
       <GameName xml:space="preserve">Empty Game</GameName>
       <UniqueID>545051</UniqueID>
       <GUIDAsString>{8e93a1f9-56d9-4014-b72e-6ae4c896c474}</GUIDAsString>
-      <ColorDepth>HighColor</ColorDepth>
+      <ColorDepth>TrueColor</ColorDepth>
       <Resolution>R320x200</Resolution>
-      <GraphicsDriver>DX5</GraphicsDriver>
+      <GraphicsDriver>D3D9</GraphicsDriver>
       <CompressSprites>False</CompressSprites>
       <SaveScreenshots>False</SaveScreenshots>
       <RoomTransition>FadeOutAndIn</RoomTransition>
