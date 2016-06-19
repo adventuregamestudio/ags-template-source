@@ -34,6 +34,7 @@
       <InventoryCursors>True</InventoryCursors>
       <HandleInvClicksInScript>False</HandleInvClicksInScript>
       <DisplayMultipleInventory>False</DisplayMultipleInventory>
+      <ScriptAPIVersion>v340</ScriptAPIVersion>
       <EnforceObjectBasedScript>True</EnforceObjectBasedScript>
       <EnforceNewStrings>True</EnforceNewStrings>
       <EnforceNewAudio>True</EnforceNewAudio>
