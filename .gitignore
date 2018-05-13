@@ -1,7 +1,9 @@
 Default Game/_Debug/
-Empty Game/_Debug/
 Default Game/Compiled/
+Empty Game/_Debug/
 Empty Game/Compiled/
+Verb Coin/_Debug/
+Verb Coin/Compiled/
 *.bak
 *.user
 backup_acsprset.spr
