@@ -7,3 +7,4 @@ Verb Coin/Compiled/
 *.bak
 *.user
 backup_acsprset.spr
+_OpenInEditor.lock

@@ -12,7 +12,7 @@
       <SaveScreenshots>True</SaveScreenshots>
       <RoomTransition>FadeOutAndIn</RoomTransition>
       <MouseWheelEnabled>True</MouseWheelEnabled>
-      <UseLowResCoordinatesInScript>True</UseLowResCoordinatesInScript>
+      <UseLowResCoordinatesInScript>False</UseLowResCoordinatesInScript>
       <TurnBeforeFacing>True</TurnBeforeFacing>
       <TurnBeforeWalking>True</TurnBeforeWalking>
       <SplitResources>0</SplitResources>
@@ -20,8 +20,8 @@
       <AutoMoveInWalkMode>True</AutoMoveInWalkMode>
       <PixelPerfect>True</PixelPerfect>
       <WhenInterfaceDisabled>GreyOut</WhenInterfaceDisabled>
-      <GUIAlphaStyle>AdditiveOpacity</GUIAlphaStyle>
-      <SpriteAlphaStyle>Classic</SpriteAlphaStyle>
+      <GUIAlphaStyle>MultiplyTranslucenceSrcBlend</GUIAlphaStyle>
+      <SpriteAlphaStyle>Improved</SpriteAlphaStyle>
       <RunGameLoopsWhileDialogOptionsDisplayed>False</RunGameLoopsWhileDialogOptionsDisplayed>
       <InventoryHotspotMarkerStyle>None</InventoryHotspotMarkerStyle>
       <InventoryHotspotMarkerSprite>0</InventoryHotspotMarkerSprite>
@@ -34,10 +34,10 @@
       <HandleInvClicksInScript>True</HandleInvClicksInScript>
       <DisplayMultipleInventory>False</DisplayMultipleInventory>
       <ScriptAPIVersion>Highest</ScriptAPIVersion>
-      <ScriptCompatLevel>v321</ScriptCompatLevel>
+      <ScriptCompatLevel>Highest</ScriptCompatLevel>
       <EnforceObjectBasedScript>True</EnforceObjectBasedScript>
       <EnforceNewStrings>True</EnforceNewStrings>
-      <EnforceNewAudio>False</EnforceNewAudio>
+      <EnforceNewAudio>True</EnforceNewAudio>
       <UseOldCustomDialogOptionsAPI>False</UseOldCustomDialogOptionsAPI>
       <LeftToRightPrecedence>True</LeftToRightPrecedence>
       <PlaySoundOnScore>0</PlaySoundOnScore>
@@ -96,7 +96,7 @@
       <CustomSavePath />
       <UseCustomAppDataPath>False</UseCustomAppDataPath>
       <CustomAppDataPath IsNull="True" />
-      <TitleText xml:space="preserve">New game Setup</TitleText>
+      <TitleText xml:space="preserve">Verb Coin Game Setup</TitleText>
     </RuntimeSetup>
     <LipSync>
       <Type>None</Type>
@@ -2274,7 +2274,7 @@
                 <Name>SCUMM Verbcoin GUI</Name>
                 <Description>Verbcoin GUI</Description>
                 <Author>Tom Vandepoele</Author>
-                <Version>1.7.2</Version>
+                <Version>1.7.2b</Version>
                 <Key>713280048</Key>
                 <IsHeader>False</IsHeader>
               </Script>

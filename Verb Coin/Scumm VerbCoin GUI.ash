@@ -1,7 +1,7 @@
 //===================================================================
 // *** AGS MODULE SCRIPT HEADER ***
 //
-// Module:  Scumm VerbCoin GUI v1.7.1
+// Module:  Scumm VerbCoin GUI v1.7.2b
 //
 // Author:  Tom "Electroshokker" Vandepoele
 //
@@ -30,6 +30,7 @@
 //                      Bugfix - the correct custom action text is set when multiple instances exist on top of each other
 // 2008-07-20 v1.7.1    New feature - disable inventory
 // 2008-10-11 v1.7.2    Bugfix - large scrolling rooms now display verbcoin correctly
+// 2018-05-13 v1.7.2b   Upgraded to be used in AGS 3.4.1 (by Ivan Mogilko)
 //
 // 3 License
 // Permission is hereby granted, free of charge, to any person obtaining a copy
