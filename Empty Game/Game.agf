@@ -1338,25 +1338,24 @@
               <Loop>
                 <ID>3</ID>
                 <RunNextLoop>False</RunNextLoop>
-                <Frames />
-              </Loop>
-            </Loops>
-          </View>
-          <View>
-            <ID>2</ID>
-            <Name>VIEW2</Name>
-            <Loops>
-              <Loop>
-                <ID>0</ID>
-                <RunNextLoop>False</RunNextLoop>
-                <Frames />
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>0</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
               </Loop>
             </Loops>
           </View>
         </Views>
       </ViewFolder>
     </Views>
-    <DeletedViews />
+    <DeletedViews>
+      <ViewID>2</ViewID>
+    </DeletedViews>
     <Scripts>
       <ScriptFolder Name="Main">
         <SubFolders />
