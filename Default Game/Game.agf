@@ -1013,7 +1013,7 @@
                 <Name>btnInvLook</Name>
               </GUIButton>
               <GUIButton>
-                <OnClick>btnInvOK_Click</OnClick>
+                <OnClick>close_gui_onclick</OnClick>
                 <ClickAction>RunScript</ClickAction>
                 <NewModeNumber>0</NewModeNumber>
                 <ClipImage>False</ClipImage>
