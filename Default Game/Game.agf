@@ -1406,7 +1406,7 @@
               <BackgroundColor>0</BackgroundColor>
               <BackgroundImage>2168</BackgroundImage>
               <ID>4</ID>
-              <Name>gRestartYN</Name>
+              <Name>gRestart</Name>
             </NormalGUI>
             <Controls>
               <GUILabel>
