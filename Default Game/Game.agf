@@ -3221,17 +3221,6 @@
               </Loop>
             </Loops>
           </View>
-          <View>
-            <ID>2</ID>
-            <Name>VIEW2</Name>
-            <Loops>
-              <Loop>
-                <ID>0</ID>
-                <RunNextLoop>False</RunNextLoop>
-                <Frames />
-              </Loop>
-            </Loops>
-          </View>
         </Views>
       </ViewFolder>
     </Views>
