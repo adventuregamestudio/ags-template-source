@@ -5,24 +5,36 @@
 // distance player walks in Tapping mode before he stops
 #define DISTANCE 10000
 
-enum KeyboardMovement_Directions {
-	eKeyboardMovement_Stop, 
-	eKeyboardMovement_DownLeft, 
-	eKeyboardMovement_Down, 
-	eKeyboardMovement_DownRight, 
-	eKeyboardMovement_Left, 
-	eKeyboardMovement_Right, 
-	eKeyboardMovement_UpLeft, 
-	eKeyboardMovement_Up, 
-	eKeyboardMovement_UpRight
+enum KeyboardMovementDirection {
+	eKeyboardMovementStop, 
+	eKeyboardMovementDownLeft, 
+	eKeyboardMovementDown, 
+	eKeyboardMovementDownRight, 
+	eKeyboardMovementLeft, 
+	eKeyboardMovementRight, 
+	eKeyboardMovementUpLeft, 
+	eKeyboardMovementUp, 
+	eKeyboardMovementUpRight
 };
 
-enum KeyboardMovement_Modes {
-	eKeyboardMovement_None, 
-	eKeyboardMovement_Tapping, 
-	eKeyboardMovement_Pressing
+enum KeyboardMovementMode {
+	eKeyboardMovementModeNone, 
+	eKeyboardMovementModeTapping, 
+	eKeyboardMovementModePressing
+};
+
+struct KeyboardMovementKeymap {
+  eKeyCode KeyDown;
+  eKeyCode KeyLeft;
+  eKeyCode KeyRight;
+  eKeyCode KeyUp;
+  eKeyCode KeyDownRight;
+  eKeyCode KeyUpRight;
+  eKeyCode KeyDownLeft;
+  eKeyCode KeyUpLeft;
+  eKeyCode KeyStop;
 };
 
 struct KeyboardMovement {
-	import static function SetMode(KeyboardMovement_Modes mode);
+	import static function SetMode(KeyboardMovementMode newmode);
 };
