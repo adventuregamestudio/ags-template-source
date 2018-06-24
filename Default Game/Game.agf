@@ -3254,7 +3254,7 @@ return
           <ScriptAndHeader>
             <ScriptAndHeader_Header>
               <Script>
-                <FileName>KeyboardMovement_102.ash</FileName>
+                <FileName>KeyboardMovement.ash</FileName>
                 <Name>KeyboardMovement</Name>
                 <Description>Allows to move the player character using the keyboard.
 
@@ -3268,7 +3268,7 @@ See KeyboardMovement.txt for details.
             </ScriptAndHeader_Header>
             <ScriptAndHeader_Script>
               <Script>
-                <FileName>KeyboardMovement_102.asc</FileName>
+                <FileName>KeyboardMovement.asc</FileName>
                 <Name>KeyboardMovement</Name>
                 <Description>Allows to move the player character using the keyboard.
 
