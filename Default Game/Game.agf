@@ -1097,7 +1097,7 @@
             </NormalGUI>
             <Controls>
               <GUIButton>
-                <OnClick>btnResume_OnClick</OnClick>
+                <OnClick>close_gui_onclick</OnClick>
                 <ClickAction>RunScript</ClickAction>
                 <NewModeNumber>0</NewModeNumber>
                 <ClipImage>False</ClipImage>
@@ -1445,7 +1445,7 @@
                 <Name>btnRestartYes</Name>
               </GUIButton>
               <GUIButton>
-                <OnClick>btnRestartNo_OnClick</OnClick>
+                <OnClick>close_gui_onclick</OnClick>
                 <ClickAction>RunScript</ClickAction>
                 <NewModeNumber>0</NewModeNumber>
                 <ClipImage>False</ClipImage>
@@ -1537,7 +1537,7 @@
                 <Name>btnSaveGame</Name>
               </GUIButton>
               <GUIButton>
-                <OnClick>btnCancelSave_OnClick</OnClick>
+                <OnClick>close_gui_onclick</OnClick>
                 <ClickAction>RunScript</ClickAction>
                 <NewModeNumber>0</NewModeNumber>
                 <ClipImage>False</ClipImage>
@@ -1654,7 +1654,7 @@
                 <Name>btnRestoreGame</Name>
               </GUIButton>
               <GUIButton>
-                <OnClick>btnCancelRestore_OnClick</OnClick>
+                <OnClick>close_gui_onclick</OnClick>
                 <ClickAction>RunScript</ClickAction>
                 <NewModeNumber>0</NewModeNumber>
                 <ClipImage>False</ClipImage>
@@ -1836,7 +1836,7 @@
                 <Name>bQuit</Name>
               </GUIButton>
               <GUIButton>
-                <OnClick>bPlay_OnClick</OnClick>
+                <OnClick>close_gui_onclick</OnClick>
                 <ClickAction>RunScript</ClickAction>
                 <NewModeNumber>0</NewModeNumber>
                 <ClipImage>False</ClipImage>
