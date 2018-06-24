@@ -2133,18 +2133,7 @@
     <Dialogs>
       <DialogFolder Name="Main">
         <SubFolders />
-        <Dialogs>
-          <Dialog>
-            <ID>0</ID>
-            <Name>dDialog0</Name>
-            <ShowTextParser>False</ShowTextParser>
-            <Script><![CDATA[// Dialog script file
-@S  // Dialog startup entry point
-return
-]]></Script>
-            <DialogOptions />
-          </Dialog>
-        </Dialogs>
+        <Dialogs />
       </DialogFolder>
     </Dialogs>
     <Cursors>
