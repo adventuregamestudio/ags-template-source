@@ -968,7 +968,7 @@
                 <Top>8</Top>
                 <ZOrder>0</ZOrder>
                 <ID>0</ID>
-                <Name>invCustomInv</Name>
+                <Name>invCustom</Name>
               </GUIInventory>
               <GUIButton>
                 <OnClick>btnInvSelect_Click</OnClick>
@@ -1815,7 +1815,7 @@
             </NormalGUI>
             <Controls>
               <GUIButton>
-                <OnClick>bQuit_OnClick</OnClick>
+                <OnClick>btnConfirmedQuit_OnClick</OnClick>
                 <ClickAction>RunScript</ClickAction>
                 <NewModeNumber>0</NewModeNumber>
                 <ClipImage>False</ClipImage>
@@ -1833,7 +1833,7 @@
                 <Top>37</Top>
                 <ZOrder>0</ZOrder>
                 <ID>0</ID>
-                <Name>bQuit</Name>
+                <Name>btnConfirmedQuit</Name>
               </GUIButton>
               <GUIButton>
                 <OnClick>close_gui_onclick</OnClick>
@@ -1854,7 +1854,7 @@
                 <Top>37</Top>
                 <ZOrder>1</ZOrder>
                 <ID>1</ID>
-                <Name>bPlay</Name>
+                <Name>btnPlay</Name>
               </GUIButton>
               <GUILabel>
                 <TextAlignment>TopLeft</TextAlignment>
