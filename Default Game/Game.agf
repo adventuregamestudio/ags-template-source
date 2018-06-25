@@ -2099,7 +2099,7 @@
             <StartX>127</StartX>
             <StartY>142</StartY>
             <UniformMovementSpeed>True</UniformMovementSpeed>
-            <MovementSpeed>3</MovementSpeed>
+            <MovementSpeed>4</MovementSpeed>
             <MovementSpeedX>3</MovementSpeedX>
             <MovementSpeedY>0</MovementSpeedY>
             <AnimationDelay>4</AnimationDelay>
