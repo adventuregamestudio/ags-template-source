@@ -2,21 +2,6 @@
 
 #define KeyboardMovement_VERSION 103
 
-// distance player walks in Tapping mode before he stops
-#define DISTANCE 10000
-
-enum KeyboardMovementDirection {
-	eKeyboardMovementStop, 
-	eKeyboardMovementDownLeft, 
-	eKeyboardMovementDown, 
-	eKeyboardMovementDownRight, 
-	eKeyboardMovementLeft, 
-	eKeyboardMovementRight, 
-	eKeyboardMovementUpLeft, 
-	eKeyboardMovementUp, 
-	eKeyboardMovementUpRight
-};
-
 enum KeyboardMovementMode {
 	eKeyboardMovementModeNone, 
 	eKeyboardMovementModeTapping, 
@@ -24,15 +9,22 @@ enum KeyboardMovementMode {
 };
 
 struct KeyboardMovementKeymap {
+  eKeyCode KeyUp;
   eKeyCode KeyDown;
   eKeyCode KeyLeft;
   eKeyCode KeyRight;
-  eKeyCode KeyUp;
-  eKeyCode KeyDownRight;
-  eKeyCode KeyUpRight;
-  eKeyCode KeyDownLeft;
-  eKeyCode KeyUpLeft;
-  eKeyCode KeyStop;
+};
+
+managed struct Vector {
+  int x;
+  int y;
+};
+
+struct KeyboardMovementDirection {
+  Vector* Up;
+  Vector* Down;
+  Vector* Left;
+  Vector* Right; 
 };
 
 struct KeyboardMovement {
