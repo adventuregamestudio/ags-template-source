@@ -3,7 +3,7 @@
 <AGSEditorDocument Version="3.0.3.2" VersionIndex="15" EditorVersion="3.4.1">
   <Game>
     <Settings>
-      <GameName>Default</GameName>
+      <GameName>Sierra-style</GameName>
       <UniqueID>944437</UniqueID>
       <GUIDAsString>{abac5dab-dd97-4f96-b5a0-79ed2479c513}</GUIDAsString>
       <ColorDepth>TrueColor</ColorDepth>
@@ -71,7 +71,7 @@
       <DeveloperURL />
       <EnhancedSaveGames>False</EnhancedSaveGames>
       <SaveGameFileExtension />
-      <SaveGameFolderName>Default</SaveGameFolderName>
+      <SaveGameFolderName>Sierra-style</SaveGameFolderName>
       <BinaryFilesInSourceControl>False</BinaryFilesInSourceControl>
       <AudioIndexer>0</AudioIndexer>
       <BuildTargets>Windows</BuildTargets>
@@ -96,7 +96,7 @@
       <CustomSavePath />
       <UseCustomAppDataPath>False</UseCustomAppDataPath>
       <CustomAppDataPath IsNull="True" />
-      <TitleText xml:space="preserve">Template Setup</TitleText>
+      <TitleText xml:space="preserve">Sierra-style Setup</TitleText>
     </RuntimeSetup>
     <LipSync>
       <Type>None</Type>
