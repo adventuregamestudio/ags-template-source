@@ -835,7 +835,7 @@
           <GUIMain>
             <NormalGUI>
               <OnClick>gVerbCoin_OnClick</OnClick>
-              <Height>50</Height>
+              <Height>150</Height>
               <Width>150</Width>
               <Left>0</Left>
               <Top>0</Top>

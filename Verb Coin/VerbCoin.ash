@@ -19,4 +19,6 @@ struct VerbCoin {
   import static function SetBorderColor(int color);
   import static function SetBorderWidth(int width);
   import static function OnClick(GUIControl* control, MouseButton button);
+  import static function RegisterButton(GUIControl* control, VerbCoinPosition position, CursorMode mode, String verbtext);
+  import static function RegisterGui(GUI* interface_gui);
 };
