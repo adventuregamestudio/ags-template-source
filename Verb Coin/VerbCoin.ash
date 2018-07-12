@@ -21,6 +21,10 @@ struct VerbCoin {
   import static function OnClick(GUIControl* control, MouseButton button);
   import static function RegisterButton(GUIControl* control, VerbCoinPosition position, CursorMode mode, String verbtext);
   import static function RegisterGui(GUI* interface_gui);
+  import static function Enable();
+  import static function Disable();
+  import static function IsEnabled();
   import static function Open();
   import static function Close();
+  import static function IsOpen();
 };
