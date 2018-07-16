@@ -27,4 +27,5 @@ struct VerbCoin {
   import static function Open();
   import static function Close();
   import static function IsOpen();
+  import static function ButtonAutoDisable(bool autodisable);
 };

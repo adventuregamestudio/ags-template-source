@@ -19,7 +19,7 @@
       <LetterboxMode>False</LetterboxMode>
       <AutoMoveInWalkMode>True</AutoMoveInWalkMode>
       <PixelPerfect>True</PixelPerfect>
-      <WhenInterfaceDisabled>Unchanged</WhenInterfaceDisabled>
+      <WhenInterfaceDisabled>GreyOut</WhenInterfaceDisabled>
       <GUIAlphaStyle>MultiplyTranslucenceSrcBlend</GUIAlphaStyle>
       <SpriteAlphaStyle>Improved</SpriteAlphaStyle>
       <RunGameLoopsWhileDialogOptionsDisplayed>False</RunGameLoopsWhileDialogOptionsDisplayed>
