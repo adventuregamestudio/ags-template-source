@@ -1,3 +1,3 @@
-[submodule "9Verb"]
-	path = 9Verb
-	url = https://github.com/dkrey/ags_9verb-template
+[submodule "Tumbleweed"]
+	path = Tumbleweed
+	url = https://github.com/dkrey/ags_tumbleweed
