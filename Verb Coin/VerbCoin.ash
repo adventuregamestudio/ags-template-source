@@ -22,6 +22,7 @@ struct VerbCoin {
   import static function RegisterButton(GUIControl* control, VerbCoinPosition position, CursorMode mode, String verbtext);
   import static function RegisterInterfaceGui(GUI* interface_gui);
   import static function RegisterInventoryGui(GUI* inventory_gui);
+  import static function RegisterActionLabel(Label* label);
   import static function Enable();
   import static function Disable();
   import static function IsEnabled();
