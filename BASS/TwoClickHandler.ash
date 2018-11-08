@@ -47,3 +47,8 @@
 
 // change this to the y position the mouse most be at to make the inventory GUI visible
 #define INVENTORY_POPUP_POSITION 15
+
+struct TwoClickHandler {
+  import static function RegisterInventoryGui(GUI* inventory_gui);
+  import static function RegisterActionLabel(Label* label);
+};

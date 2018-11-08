@@ -28,5 +28,9 @@ struct KeyboardMovementDirection {
 };
 
 struct KeyboardMovement {
-	import static function SetMode(KeyboardMovementMode newmode);
+  import static function SetMode(KeyboardMovementMode newmode);
+  import static function SetKeyUp(eKeyCode up);
+  import static function SetKeyDown(eKeyCode down);
+  import static function SetKeyLeft(eKeyCode left);
+  import static function SetKeyRight(eKeyCode right);
 };
