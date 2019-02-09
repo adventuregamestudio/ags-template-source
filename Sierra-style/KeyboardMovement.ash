@@ -1,6 +1,6 @@
 // Script header for module 'KeyboardMovement'
 
-#define KeyboardMovement_VERSION 103
+#define KeyboardMovement_VERSION 104
 
 enum KeyboardMovementMode {
 	eKeyboardMovementModeNone, 
