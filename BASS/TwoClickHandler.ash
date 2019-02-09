@@ -46,8 +46,8 @@
 // pumpkins.
 
 enum TwoClickMouseMode {
-	eTwoClickMouseModeNormal, 
-	eTwoClickMouseModeClassic
+  eTwoClickMouseModeNormal, 
+  eTwoClickMouseModeClassic
 };
 
 struct TwoClickHandler {
