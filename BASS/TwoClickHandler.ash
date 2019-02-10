@@ -45,11 +45,6 @@
 // *It's been tested a lot though, and we have established it will not turn your computer into a steaming pile of 
 // pumpkins.
 
-enum TwoClickMouseMode {
-  eTwoClickMouseModeNormal, 
-  eTwoClickMouseModeClassic
-};
-
 struct TwoClickHandler {
   import static attribute Label* ActionLabel;
   import static attribute GUI* InventoryGUI;
