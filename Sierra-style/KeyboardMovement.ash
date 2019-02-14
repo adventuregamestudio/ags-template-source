@@ -1,6 +1,6 @@
 // Script header for module 'KeyboardMovement'
 
-#define KeyboardMovement_VERSION 103
+#define KeyboardMovement_VERSION 104
 
 enum KeyboardMovementMode {
 	eKeyboardMovementModeNone, 
@@ -28,9 +28,9 @@ struct KeyboardMovementDirection {
 };
 
 struct KeyboardMovement {
-  import static function SetMode(KeyboardMovementMode newmode);
-  import static function SetKeyUp(eKeyCode up);
-  import static function SetKeyDown(eKeyCode down);
-  import static function SetKeyLeft(eKeyCode left);
-  import static function SetKeyRight(eKeyCode right);
+  import static attribute KeyboardMovementMode Mode;
+  import static attribute eKeyCode KeyUp;
+  import static attribute eKeyCode KeyDown;
+  import static attribute eKeyCode KeyLeft;
+  import static attribute eKeyCode KeyRight;
 };

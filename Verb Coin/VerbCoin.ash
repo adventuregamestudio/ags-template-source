@@ -13,21 +13,21 @@ enum VerbCoinPosition {
 };
 
 struct VerbCoin {
-	import static function SetRadius(int newradius);
-  import static function SetBackgroundTransparency(int transparency);
-  import static function SetBackgroundColor(int color);
-  import static function SetBorderColor(int color);
-  import static function SetBorderWidth(int width);
+  import static attribute int Radius;
+  import static attribute int BackgroundTransparency;
+  import static attribute int BackgroundColor;
+  import static attribute int BorderColor;
+  import static attribute int BorderWidth;
   import static function OnClick(GUIControl* control, MouseButton button);
   import static function RegisterButton(GUIControl* control, VerbCoinPosition position, CursorMode mode, String verbtext);
-  import static function RegisterInterfaceGui(GUI* interface_gui);
-  import static function RegisterInventoryGui(GUI* inventory_gui);
-  import static function RegisterActionLabel(Label* label);
+  import static attribute GUI* InterfaceGui;
+  import static attribute GUI* InventoryGui;
+  import static attribute Label* ActionLabel;
   import static function Enable();
   import static function Disable();
   import static function IsEnabled();
   import static function Open();
   import static function Close();
   import static function IsOpen();
-  import static function ButtonAutoDisable(bool autodisable);
+  import static attribute bool ButtonAutoDisable;
 };

@@ -1,7 +1,7 @@
 // Script header for the "Lightweight BASS Template"
 //
 //
-// Version: 2.3
+// Version: 2.4
 //
 //
 // Author(s): 
@@ -45,16 +45,10 @@
 // *It's been tested a lot though, and we have established it will not turn your computer into a steaming pile of 
 // pumpkins.
 
-// change this to the y position the mouse most be at to make the inventory GUI visible
-#define INVENTORY_POPUP_POSITION 15
-
-enum TwoClickMouseMode {
-	eTwoClickMouseModeNormal, 
-	eTwoClickMouseModeClassic
-};
-
 struct TwoClickHandler {
-  import static function RegisterInventoryGui(GUI* inventory_gui);
-  import static function RegisterActionLabel(Label* label);
-  import static function SetMouseMode(TwoClickMouseMode mode);
+  import static attribute Label* ActionLabel;
+  import static attribute GUI* InventoryGUI;
+  import static attribute bool ReversedClicks;
+  import static attribute float PopupProportional;
+  import static attribute int PopupDistance;
 };
