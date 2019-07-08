@@ -5,6 +5,15 @@
 #define VERBCOIN_DEFAULT_BORDER_COLOR 19248
 #define VERBCOIN_DEFAULT_BORDER_WIDTH 1
 
+#ifdef SCRIPT_API_v3507
+#define SCREEN_WIDTH Screen.Width
+#define SCREEN_HEIGHT Screen.Height
+#endif
+#ifndef SCRIPT_API_v3507
+#define SCREEN_WIDTH System.ViewportWidth
+#define SCREEN_HEIGHT System.ViewportHeight
+#endif
+
 enum VerbCoinPosition {
   eVerbCoinPositionNorth,
   eVerbCoinPositionEast,
