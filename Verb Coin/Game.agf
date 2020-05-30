@@ -823,7 +823,7 @@
                 <Visible>True</Visible>
               </GUIButton>
               <GUIButton>
-                <OnClick>btnPlay_OnClick</OnClick>
+                <OnClick>close_gui_onclick</OnClick>
                 <ClickAction>RunScript</ClickAction>
                 <NewModeNumber>0</NewModeNumber>
                 <ClipImage>False</ClipImage>

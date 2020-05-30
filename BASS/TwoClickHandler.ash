@@ -49,6 +49,7 @@ struct TwoClickHandler {
   import static attribute Label* ActionLabel;
   import static attribute GUI* InventoryGUI;
   import static attribute bool ReversedClicks;
+  import static function Close();
   import static attribute float PopupProportional;
   import static attribute int PopupDistance;
 };
