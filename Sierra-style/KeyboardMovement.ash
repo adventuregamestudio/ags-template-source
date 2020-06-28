@@ -3,9 +3,9 @@
 #define KeyboardMovement_VERSION 104
 
 enum KeyboardMovementMode {
-	eKeyboardMovementModeNone, 
-	eKeyboardMovementModeTapping, 
-	eKeyboardMovementModePressing
+  eKeyboardMovementModeNone,
+  eKeyboardMovementModeTapping,
+  eKeyboardMovementModePressing
 };
 
 struct KeyboardMovementKeymap {
@@ -24,7 +24,7 @@ struct KeyboardMovementDirection {
   Vector* Up;
   Vector* Down;
   Vector* Left;
-  Vector* Right; 
+  Vector* Right;
 };
 
 struct KeyboardMovement {
