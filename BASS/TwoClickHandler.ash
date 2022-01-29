@@ -1,7 +1,7 @@
 // Script header for the "Lightweight BASS Template"
 //
 //
-// Version: 2.4
+// Version: 2.5
 //
 //
 // Author(s):
