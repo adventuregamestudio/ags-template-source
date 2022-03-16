@@ -17,7 +17,7 @@
       <BackwardsText>False</BackwardsText>
       <BinaryFilesInSourceControl>False</BinaryFilesInSourceControl>
       <BuildTargets>Windows</BuildTargets>
-      <ClipGUIControls>False</ClipGUIControls>
+      <ClipGUIControls>True</ClipGUIControls>
       <ColorDepth>TrueColor</ColorDepth>
       <CompressSpritesType>None</CompressSpritesType>
       <CrossfadeMusic>No</CrossfadeMusic>

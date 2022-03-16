@@ -17,7 +17,7 @@
       <BackwardsText>False</BackwardsText>
       <BinaryFilesInSourceControl>False</BinaryFilesInSourceControl>
       <BuildTargets>Windows</BuildTargets>
-      <ClipGUIControls>False</ClipGUIControls>
+      <ClipGUIControls>True</ClipGUIControls>
       <ColorDepth>TrueColor</ColorDepth>
       <CompressSpritesType>None</CompressSpritesType>
       <CrossfadeMusic>No</CrossfadeMusic>
@@ -687,7 +687,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>10</Height>
+                <Height>13</Height>
                 <ID>0</ID>
                 <Left>2</Left>
                 <Locked>True</Locked>
@@ -704,7 +704,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>10</Height>
+                <Height>13</Height>
                 <ID>1</ID>
                 <Left>250</Left>
                 <Locked>True</Locked>
@@ -721,7 +721,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>10</Height>
+                <Height>13</Height>
                 <ID>2</ID>
                 <Left>0</Left>
                 <Locked>True</Locked>
@@ -1384,7 +1384,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>10</Height>
+                <Height>13</Height>
                 <ID>9</ID>
                 <Left>115</Left>
                 <Locked>False</Locked>
@@ -1401,7 +1401,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>10</Height>
+                <Height>13</Height>
                 <ID>10</ID>
                 <Left>115</Left>
                 <Locked>False</Locked>
@@ -1479,7 +1479,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>10</Height>
+                <Height>13</Height>
                 <ID>14</ID>
                 <Left>115</Left>
                 <Locked>False</Locked>
@@ -1542,7 +1542,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>23</Height>
+                <Height>27</Height>
                 <ID>0</ID>
                 <Left>24</Left>
                 <Locked>False</Locked>
@@ -1629,7 +1629,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>25</Height>
+                <Height>26</Height>
                 <ID>0</ID>
                 <Left>8</Left>
                 <Locked>True</Locked>
@@ -1780,7 +1780,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>22</Height>
+                <Height>26</Height>
                 <ID>0</ID>
                 <Left>8</Left>
                 <Locked>True</Locked>
@@ -2061,7 +2061,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>23</Height>
+                <Height>26</Height>
                 <ID>2</ID>
                 <Left>24</Left>
                 <Locked>True</Locked>

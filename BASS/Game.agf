@@ -17,7 +17,7 @@
       <BackwardsText>False</BackwardsText>
       <BinaryFilesInSourceControl>False</BinaryFilesInSourceControl>
       <BuildTargets>Windows</BuildTargets>
-      <ClipGUIControls>False</ClipGUIControls>
+      <ClipGUIControls>True</ClipGUIControls>
       <ColorDepth>TrueColor</ColorDepth>
       <CompressSpritesType>None</CompressSpritesType>
       <CrossfadeMusic>No</CrossfadeMusic>
@@ -896,7 +896,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>23</Height>
+                <Height>27</Height>
                 <ID>2</ID>
                 <Left>24</Left>
                 <Locked>True</Locked>
@@ -935,7 +935,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>22</Height>
+                <Height>26</Height>
                 <ID>0</ID>
                 <Left>8</Left>
                 <Locked>True</Locked>
@@ -1044,7 +1044,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>25</Height>
+                <Height>26</Height>
                 <ID>0</ID>
                 <Left>8</Left>
                 <Locked>True</Locked>

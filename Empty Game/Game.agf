@@ -17,7 +17,7 @@
       <BackwardsText>False</BackwardsText>
       <BinaryFilesInSourceControl>False</BinaryFilesInSourceControl>
       <BuildTargets>Windows</BuildTargets>
-      <ClipGUIControls>False</ClipGUIControls>
+      <ClipGUIControls>True</ClipGUIControls>
       <ColorDepth>TrueColor</ColorDepth>
       <CompressSpritesType>None</CompressSpritesType>
       <CrossfadeMusic>No</CrossfadeMusic>
@@ -1030,7 +1030,7 @@
         <PointSize>0</PointSize>
         <SizeMultiplier>1</SizeMultiplier>
         <SourceFilename />
-        <TTFMetricsFixup>SetAscenderToHeight</TTFMetricsFixup>
+        <TTFMetricsFixup>None</TTFMetricsFixup>
         <VerticalOffset>0</VerticalOffset>
       </Font>
       <Font>
@@ -1044,7 +1044,7 @@
         <PointSize>0</PointSize>
         <SizeMultiplier>1</SizeMultiplier>
         <SourceFilename />
-        <TTFMetricsFixup>SetAscenderToHeight</TTFMetricsFixup>
+        <TTFMetricsFixup>None</TTFMetricsFixup>
         <VerticalOffset>0</VerticalOffset>
       </Font>
       <Font>
@@ -1058,7 +1058,7 @@
         <PointSize>0</PointSize>
         <SizeMultiplier>1</SizeMultiplier>
         <SourceFilename />
-        <TTFMetricsFixup>SetAscenderToHeight</TTFMetricsFixup>
+        <TTFMetricsFixup>None</TTFMetricsFixup>
         <VerticalOffset>0</VerticalOffset>
       </Font>
     </Fonts>
