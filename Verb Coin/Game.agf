@@ -11,7 +11,7 @@
       <AndroidBuildFormat>ApkEmbedded</AndroidBuildFormat>
       <AntiAliasFonts>False</AntiAliasFonts>
       <AntiGlideMode>True</AntiGlideMode>
-      <AttachDataToExe>True</AttachDataToExe>
+      <AttachDataToExe>False</AttachDataToExe>
       <AudioIndexer>0</AudioIndexer>
       <AutoMoveInWalkMode>True</AutoMoveInWalkMode>
       <BackwardsText>False</BackwardsText>
