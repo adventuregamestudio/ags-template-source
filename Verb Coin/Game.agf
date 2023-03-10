@@ -1969,9 +1969,9 @@
               <SpriteFolder Name="Verbs">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="2100" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2100" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Walk.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_walk_normal.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -1981,12 +1981,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2101" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2101" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Walk_hover.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_walk_over.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -1996,12 +1996,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2102" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2102" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Walk_pushed.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_walk_pressed.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2011,12 +2011,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2103" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2103" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/Verbs/btn_walk_icon.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2026,12 +2026,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2104" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2104" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Examine.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_look_normal.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2041,12 +2041,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2105" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2105" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Examine_hover.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_look_over.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2056,12 +2056,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2106" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2106" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Examine_pushed.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_look_pressed.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2071,12 +2071,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2107" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2107" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/Verbs/btn_look_icon.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2086,12 +2086,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2108" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2108" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Take.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_interact_normal.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2101,12 +2101,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2109" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2109" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Take_hover.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_interact_over.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2116,12 +2116,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2110" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2110" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Take_pushed.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_interact_pressed.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2131,12 +2131,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2111" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2111" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/Verbs/btn_interact_icon.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2146,12 +2146,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2112" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2112" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Talk.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_talk_normal.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2161,12 +2161,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2113" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2113" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Talk_hover.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_talk_over.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2176,12 +2176,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2114" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2114" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Talk_pushed.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_talkj_pressed.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2191,12 +2191,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2115" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2115" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/Verbs/btn_talk_icon.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2206,12 +2206,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2116" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2116" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Cursor.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_pointer_normal.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2221,12 +2221,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2117" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2117" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Cursor_hover.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_pointer_over.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2236,12 +2236,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2118" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2118" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Cursor_pushed.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_pointer_pressed.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2251,12 +2251,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2119" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2119" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/Verbs/btn_pointer_icon.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2266,12 +2266,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2120" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2120" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Items.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_inventory_normal.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2281,12 +2281,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2121" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2121" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Items_hover.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_inventory_over.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2296,12 +2296,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2122" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2122" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Items_pushed.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_inventory_pressed.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2311,12 +2311,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2123" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2123" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/Verbs/btn_inventory_icon.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2326,12 +2326,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2124" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2124" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Empty.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_empty_normal.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2341,12 +2341,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2126" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2126" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Empty_pushed.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_empty_pressed.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2356,12 +2356,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2127" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2127" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/Verbs/btn_empty_icon.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2371,12 +2371,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2128" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2128" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Save.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_save_normal.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2386,12 +2386,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2129" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2129" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Save_hover.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_save_over.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2401,12 +2401,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2130" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2130" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Save_pushed.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_save_pressed.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2416,12 +2416,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2131" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2131" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/Verbs/btn_save_icon.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2431,12 +2431,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2132" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2132" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Load.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_load_normal.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2446,12 +2446,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2133" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2133" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Load_hover.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_load_over.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2461,12 +2461,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2134" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2134" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Load_pushed.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_load_pressed.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2476,12 +2476,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2135" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2135" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/Verbs/btn_load_icon.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2491,12 +2491,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2136" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2136" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Options.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_settings_normal.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2506,12 +2506,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2137" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2137" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Options_hover.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_settings_over.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2521,12 +2521,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2138" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2138" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Options_pushed.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_settings_pressed.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2536,12 +2536,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2139" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2139" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/Verbs/btn_settings_icon.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2551,12 +2551,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2140" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2140" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Power.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_quit_normal.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2566,12 +2566,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2141" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2141" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Power_hover.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_quit_over.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2581,12 +2581,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2142" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2142" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\Power_pushed.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_quit_pressed.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2596,12 +2596,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2143" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2143" Width="32" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/Verbs/btn_quit_icon.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2611,12 +2611,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2144" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2144" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\InvDn.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_arrowdown_normal.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2626,12 +2626,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2145" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2145" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\InvDn_hover.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_arrowdown_over.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2641,12 +2641,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2146" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2146" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\InvDn_pushed.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_arrowdown_pressed.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2656,12 +2656,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2147" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2147" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\InvUp.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_arrowup_normal.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2671,12 +2671,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2148" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2148" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\InvUp_hover.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_arrowup_over.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2686,12 +2686,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2149" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2149" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\Verbs-Round\InvUp_pushed.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_arrowup_pressed.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -2701,7 +2701,7 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
                 </Sprites>
@@ -2709,9 +2709,9 @@
               <SpriteFolder Name="TextWindow">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="2150" Width="4" Height="4" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2150" Width="4" Height="4" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/TextWindow/textbox_topleft_corner.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>4</ImportHeight>
@@ -2721,87 +2721,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2151" Width="1" Height="4" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2151" Width="1" Height="4" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
-                      <OffsetX>0</OffsetX>
-                      <OffsetY>0</OffsetY>
-                      <ImportHeight>4</ImportHeight>
-                      <ImportWidth>1</ImportWidth>
-                      <ImportAsTile>False</ImportAsTile>
-                      <Frame>0</Frame>
-                      <RemapToGamePalette>False</RemapToGamePalette>
-                      <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="2152" Width="4" Height="4" ColorDepth="32" Resolution="Real" AlphaChannel="False">
-                    <Source>
-                      <FileName />
-                      <OffsetX>0</OffsetX>
-                      <OffsetY>0</OffsetY>
-                      <ImportHeight>4</ImportHeight>
-                      <ImportWidth>4</ImportWidth>
-                      <ImportAsTile>False</ImportAsTile>
-                      <Frame>0</Frame>
-                      <RemapToGamePalette>False</RemapToGamePalette>
-                      <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="2153" Width="4" Height="1" ColorDepth="32" Resolution="Real" AlphaChannel="False">
-                    <Source>
-                      <FileName />
-                      <OffsetX>0</OffsetX>
-                      <OffsetY>0</OffsetY>
-                      <ImportHeight>1</ImportHeight>
-                      <ImportWidth>4</ImportWidth>
-                      <ImportAsTile>False</ImportAsTile>
-                      <Frame>0</Frame>
-                      <RemapToGamePalette>False</RemapToGamePalette>
-                      <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="2154" Width="4" Height="1" ColorDepth="32" Resolution="Real" AlphaChannel="False">
-                    <Source>
-                      <FileName />
-                      <OffsetX>0</OffsetX>
-                      <OffsetY>0</OffsetY>
-                      <ImportHeight>1</ImportHeight>
-                      <ImportWidth>4</ImportWidth>
-                      <ImportAsTile>False</ImportAsTile>
-                      <Frame>0</Frame>
-                      <RemapToGamePalette>False</RemapToGamePalette>
-                      <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="2155" Width="4" Height="4" ColorDepth="32" Resolution="Real" AlphaChannel="False">
-                    <Source>
-                      <FileName />
-                      <OffsetX>0</OffsetX>
-                      <OffsetY>0</OffsetY>
-                      <ImportHeight>4</ImportHeight>
-                      <ImportWidth>4</ImportWidth>
-                      <ImportAsTile>False</ImportAsTile>
-                      <Frame>0</Frame>
-                      <RemapToGamePalette>False</RemapToGamePalette>
-                      <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="2156" Width="1" Height="4" ColorDepth="32" Resolution="Real" AlphaChannel="False">
-                    <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/TextWindow/textbox_top_border.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>4</ImportHeight>
@@ -2811,12 +2736,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2157" Width="4" Height="4" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2152" Width="4" Height="4" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/TextWindow/textbox_topright_corner.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>4</ImportHeight>
@@ -2826,7 +2751,82 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="2153" Width="4" Height="1" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>Sprites/Defaults/TextWindow/textbox_left_border.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>1</ImportHeight>
+                      <ImportWidth>4</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="2154" Width="4" Height="1" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>Sprites/Defaults/TextWindow/textbox_right_border.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>1</ImportHeight>
+                      <ImportWidth>4</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="2155" Width="4" Height="4" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>Sprites/Defaults/TextWindow/textbox_bottomleft_corner.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>4</ImportHeight>
+                      <ImportWidth>4</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="2156" Width="1" Height="4" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>Sprites/Defaults/TextWindow/textbox_bottom_border.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>4</ImportHeight>
+                      <ImportWidth>1</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="2157" Width="4" Height="4" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>Sprites/Defaults/TextWindow/textbox_bottomright_corner.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>4</ImportHeight>
+                      <ImportWidth>4</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
                 </Sprites>
@@ -2836,7 +2836,7 @@
                 <Sprites>
                   <Sprite Slot="2160" Width="71" Height="19" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\buttons\button.png</FileName>
+                      <FileName>Sprites/Defaults/UI/button_medium_normal.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>19</ImportHeight>
@@ -2851,7 +2851,7 @@
                   </Sprite>
                   <Sprite Slot="2161" Width="71" Height="19" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\buttons\button_down.png</FileName>
+                      <FileName>Sprites/Defaults/UI/button_medium_pressed.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>19</ImportHeight>
@@ -2864,9 +2864,9 @@
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2162" Width="105" Height="19" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2162" Width="105" Height="19" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/UI/buttom_large_normal.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>19</ImportHeight>
@@ -2876,12 +2876,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2163" Width="105" Height="19" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2163" Width="105" Height="19" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/UI/button_large_pressed.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>19</ImportHeight>
@@ -2891,12 +2891,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2165" Width="99" Height="4" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2165" Width="99" Height="4" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\buttons\slider-bar.png</FileName>
+                      <FileName>Sprites/Defaults/UI/slider_bar.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>4</ImportHeight>
@@ -2906,12 +2906,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2166" Width="9" Height="11" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2166" Width="9" Height="11" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/UI/slider_handle.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>11</ImportHeight>
@@ -2921,12 +2921,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2167" Width="259" Height="157" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2167" Width="259" Height="157" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/UI/background_saverestore.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>157</ImportHeight>
@@ -2936,12 +2936,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2168" Width="205" Height="65" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2168" Width="205" Height="65" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/UI/background_modal_yesno.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>65</ImportHeight>
@@ -2951,12 +2951,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2169" Width="223" Height="133" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2169" Width="223" Height="133" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/UI/background_inventory.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>133</ImportHeight>
@@ -2966,7 +2966,7 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
                 </Sprites>
@@ -2974,9 +2974,9 @@
               <SpriteFolder Name="Cursors">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="2054" Width="27" Height="24" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2054" Width="27" Height="24" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\AGS-SCI-Template\resources\cursors\walk.png</FileName>
+                      <FileName>Sprites/Defaults/Cursors/cursor_walk.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>24</ImportHeight>
@@ -2986,12 +2986,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2055" Width="14" Height="22" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2055" Width="14" Height="22" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\AGS-SCI-Template\resources\cursors\wait.png</FileName>
+                      <FileName>Sprites/Defaults/Cursors/cursor_wait.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>22</ImportHeight>
@@ -3001,12 +3001,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2056" Width="26" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2056" Width="26" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\AGS-SCI-Template\resources\cursors\examine.png</FileName>
+                      <FileName>Sprites/Defaults/Cursors/cursor_look.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -3016,12 +3016,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2057" Width="19" Height="28" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2057" Width="19" Height="28" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\AGS-SCI-Template\resources\cursors\interact.png</FileName>
+                      <FileName>Sprites/Defaults/Cursors/cursor_interact.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>28</ImportHeight>
@@ -3031,12 +3031,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2058" Width="28" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2058" Width="28" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\AGS-SCI-Template\resources\cursors\talk.png</FileName>
+                      <FileName>Sprites/Defaults/Cursors/cursor_talk.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
@@ -3046,12 +3046,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2059" Width="9" Height="13" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2059" Width="9" Height="13" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/Cursors/cursor_small_pointer.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>13</ImportHeight>
@@ -3061,12 +3061,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2060" Width="16" Height="16" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2060" Width="16" Height="16" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Sprites/Defaults/Cursors/cursor_x.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>16</ImportHeight>
@@ -3076,12 +3076,12 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2061" Width="12" Height="16" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2061" Width="12" Height="16" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\AGS-SCI-Template\resources\cursors\arrow.png</FileName>
+                      <FileName>Sprites/Defaults/Cursors/cursor_pointer.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>16</ImportHeight>
@@ -3091,16 +3091,16 @@
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
                 </Sprites>
               </SpriteFolder>
             </SubFolders>
             <Sprites>
-              <Sprite Slot="2000" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="2000" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\stand0000.png</FileName>
+                  <FileName>Sprites/Defaults/ego_down_00.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3110,12 +3110,12 @@
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
               <Sprite Slot="2001" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkDown0000.png</FileName>
+                  <FileName>Sprites/Defaults/ego_down_01.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3130,7 +3130,7 @@
               </Sprite>
               <Sprite Slot="2002" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkDown0001.png</FileName>
+                  <FileName>Sprites/Defaults/ego_down_02.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3145,7 +3145,7 @@
               </Sprite>
               <Sprite Slot="2003" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkDown0002.png</FileName>
+                  <FileName>Sprites/Defaults/ego_down_03.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3160,7 +3160,7 @@
               </Sprite>
               <Sprite Slot="2004" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkDown0003.png</FileName>
+                  <FileName>Sprites/Defaults/ego_down_04.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3175,7 +3175,7 @@
               </Sprite>
               <Sprite Slot="2005" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkDown0004.png</FileName>
+                  <FileName>Sprites/Defaults/ego_down_05.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3190,7 +3190,7 @@
               </Sprite>
               <Sprite Slot="2006" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkDown0005.png</FileName>
+                  <FileName>Sprites/Defaults/ego_down_06.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3203,9 +3203,9 @@
                   <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="2010" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="2010" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\stand0006.png</FileName>
+                  <FileName>Sprites/Defaults/ego_left_00.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3215,12 +3215,12 @@
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="2011" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="2011" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkLeft0002.png</FileName>
+                  <FileName>Sprites/Defaults/ego_left_01.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3230,12 +3230,12 @@
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="2012" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="2012" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkLeft0003.png</FileName>
+                  <FileName>Sprites/Defaults/ego_left_02.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3245,12 +3245,12 @@
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="2013" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="2013" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkLeft0004.png</FileName>
+                  <FileName>Sprites/Defaults/ego_left_03.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3260,12 +3260,12 @@
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="2014" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="2014" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkLeft0005.png</FileName>
+                  <FileName>Sprites/Defaults/ego_left_04.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3275,12 +3275,12 @@
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="2015" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="2015" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkLeft0000.png</FileName>
+                  <FileName>Sprites/Defaults/ego_left_05.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3290,12 +3290,12 @@
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="2016" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="2016" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkLeft0001.png</FileName>
+                  <FileName>Sprites/Defaults/ego_left_06.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3305,12 +3305,12 @@
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="2020" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="2020" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\stand0002.png</FileName>
+                  <FileName>Sprites/Defaults/ego_right_00.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3320,12 +3320,12 @@
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="2021" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="2021" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkRight0002.png</FileName>
+                  <FileName>Sprites/Defaults/ego_right_01.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3335,12 +3335,12 @@
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="2022" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="2022" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkRight0003.png</FileName>
+                  <FileName>Sprites/Defaults/ego_right_02.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3350,12 +3350,12 @@
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="2023" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="2023" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkRight0004.png</FileName>
+                  <FileName>Sprites/Defaults/ego_right_03.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3365,12 +3365,12 @@
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="2024" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="2024" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkRight0005.png</FileName>
+                  <FileName>Sprites/Defaults/ego_right_04.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3380,12 +3380,12 @@
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="2025" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="2025" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkRight0000.png</FileName>
+                  <FileName>Sprites/Defaults/ego_right_05.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3395,12 +3395,12 @@
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="2026" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="2026" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkRight0001.png</FileName>
+                  <FileName>Sprites/Defaults/ego_right_06.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3410,12 +3410,12 @@
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="2030" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="2030" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\stand0004.png</FileName>
+                  <FileName>Sprites/Defaults/ego_up_00.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3425,12 +3425,12 @@
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
               <Sprite Slot="2031" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkUp0000.png</FileName>
+                  <FileName>Sprites/Defaults/ego_up_01.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3445,7 +3445,7 @@
               </Sprite>
               <Sprite Slot="2032" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkUp0001.png</FileName>
+                  <FileName>Sprites/Defaults/ego_up_02.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3460,7 +3460,7 @@
               </Sprite>
               <Sprite Slot="2033" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkUp0002.png</FileName>
+                  <FileName>Sprites/Defaults/ego_up_03.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3475,7 +3475,7 @@
               </Sprite>
               <Sprite Slot="2034" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkUp0003.png</FileName>
+                  <FileName>Sprites/Defaults/ego_up_04.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3490,7 +3490,7 @@
               </Sprite>
               <Sprite Slot="2035" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkUp0004.png</FileName>
+                  <FileName>Sprites/Defaults/ego_up_05.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3505,7 +3505,7 @@
               </Sprite>
               <Sprite Slot="2036" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>D:\01 - Projects\01 - Caesarcub\02 - Games\2017-AGS-Templates\sci\Resources\nu-Roger\walkUp0005.png</FileName>
+                  <FileName>Sprites/Defaults/ego_up_06.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>50</ImportHeight>
@@ -3518,9 +3518,9 @@
                   <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="2040" Width="14" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="2040" Width="14" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName />
+                  <FileName>Sprites/Defaults/ico_x.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>14</ImportHeight>
@@ -3530,12 +3530,12 @@
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="2041" Width="20" Height="21" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="2041" Width="20" Height="21" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName />
+                  <FileName>Sprites/Defaults/ico_bluecup.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>21</ImportHeight>
@@ -3545,12 +3545,12 @@
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="2042" Width="20" Height="21" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="2042" Width="20" Height="21" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName />
+                  <FileName>Sprites/Defaults/ico_key.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>21</ImportHeight>
@@ -3560,7 +3560,7 @@
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
             </Sprites>
@@ -3570,7 +3570,7 @@
             <Sprites>
               <Sprite Slot="1" Width="223" Height="104" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Users\mwillcock\Desktop\inventory.png</FileName>
+                  <FileName>Sprites/VerbCoin/1.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>104</ImportHeight>
@@ -3585,7 +3585,7 @@
               </Sprite>
               <Sprite Slot="2" Width="25" Height="25" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Users\mwillcock\Desktop\export\spr02104.png</FileName>
+                  <FileName>Sprites/VerbCoin/2.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>25</ImportHeight>
@@ -3600,7 +3600,7 @@
               </Sprite>
               <Sprite Slot="3" Width="25" Height="25" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Users\mwillcock\Desktop\export\spr02105.png</FileName>
+                  <FileName>Sprites/VerbCoin/3.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>25</ImportHeight>
@@ -3615,7 +3615,7 @@
               </Sprite>
               <Sprite Slot="4" Width="25" Height="25" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Users\mwillcock\Desktop\export\spr02106.png</FileName>
+                  <FileName>Sprites/VerbCoin/4.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>25</ImportHeight>
@@ -3630,7 +3630,7 @@
               </Sprite>
               <Sprite Slot="5" Width="25" Height="25" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Users\mwillcock\Desktop\export\spr02108.png</FileName>
+                  <FileName>Sprites/VerbCoin/5.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>25</ImportHeight>
@@ -3645,7 +3645,7 @@
               </Sprite>
               <Sprite Slot="6" Width="25" Height="25" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Users\mwillcock\Desktop\export\spr02109.png</FileName>
+                  <FileName>Sprites/VerbCoin/6.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>25</ImportHeight>
@@ -3660,7 +3660,7 @@
               </Sprite>
               <Sprite Slot="7" Width="25" Height="25" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Users\mwillcock\Desktop\export\spr02110.png</FileName>
+                  <FileName>Sprites/VerbCoin/7.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>25</ImportHeight>
@@ -3675,7 +3675,7 @@
               </Sprite>
               <Sprite Slot="8" Width="25" Height="25" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Users\mwillcock\Desktop\export\spr02112.png</FileName>
+                  <FileName>Sprites/VerbCoin/8.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>25</ImportHeight>
@@ -3690,7 +3690,7 @@
               </Sprite>
               <Sprite Slot="9" Width="25" Height="25" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Users\mwillcock\Desktop\export\spr02113.png</FileName>
+                  <FileName>Sprites/VerbCoin/9.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>25</ImportHeight>
@@ -3705,7 +3705,7 @@
               </Sprite>
               <Sprite Slot="10" Width="25" Height="25" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Users\mwillcock\Desktop\export\spr02114.png</FileName>
+                  <FileName>Sprites/VerbCoin/10.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>25</ImportHeight>
@@ -3720,7 +3720,7 @@
               </Sprite>
               <Sprite Slot="11" Width="25" Height="25" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Users\mwillcock\Desktop\export\spr02140.png</FileName>
+                  <FileName>Sprites/VerbCoin/11.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>25</ImportHeight>
@@ -3735,7 +3735,7 @@
               </Sprite>
               <Sprite Slot="12" Width="25" Height="25" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Users\mwillcock\Desktop\export\spr02141.png</FileName>
+                  <FileName>Sprites/VerbCoin/12.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>25</ImportHeight>
@@ -3750,7 +3750,7 @@
               </Sprite>
               <Sprite Slot="13" Width="25" Height="25" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Users\mwillcock\Desktop\export\spr02142.png</FileName>
+                  <FileName>Sprites/VerbCoin/13.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>25</ImportHeight>
@@ -3765,7 +3765,7 @@
               </Sprite>
               <Sprite Slot="14" Width="25" Height="25" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Users\mwillcock\Desktop\cog\cog_normal.png</FileName>
+                  <FileName>Sprites/VerbCoin/14.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>25</ImportHeight>
@@ -3780,7 +3780,7 @@
               </Sprite>
               <Sprite Slot="15" Width="25" Height="25" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Users\mwillcock\Desktop\cog\cog_hover.png</FileName>
+                  <FileName>Sprites/VerbCoin/15.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>25</ImportHeight>
@@ -3795,7 +3795,7 @@
               </Sprite>
               <Sprite Slot="16" Width="25" Height="25" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Users\mwillcock\Desktop\cog\cog_down.png</FileName>
+                  <FileName>Sprites/VerbCoin/16.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>25</ImportHeight>
@@ -3812,9 +3812,9 @@
           </SpriteFolder>
         </SubFolders>
         <Sprites>
-          <Sprite Slot="0" Width="10" Height="6" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="0" Width="10" Height="6" ColorDepth="32" Resolution="Real" AlphaChannel="True">
             <Source>
-              <FileName />
+              <FileName>Sprites/bluecup0.png</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
               <ImportHeight>6</ImportHeight>
@@ -3824,7 +3824,7 @@
               <RemapToGamePalette>False</RemapToGamePalette>
               <RemapToRoomPalette>False</RemapToRoomPalette>
               <ImportMethod>LeaveAsIs</ImportMethod>
-              <ImportAlphaChannel>False</ImportAlphaChannel>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
         </Sprites>
