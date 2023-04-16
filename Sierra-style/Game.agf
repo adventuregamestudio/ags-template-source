@@ -3209,7 +3209,7 @@
                   </Sprite>
                   <Sprite Slot="2129" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>Sprites/Defaults/Verbs/btn_load_over.png</FileName>
+                      <FileName>Sprites/Defaults/Verbs/btn_save_over.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>27</ImportHeight>
