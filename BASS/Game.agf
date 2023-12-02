@@ -1438,8 +1438,8 @@
             <UseRoomAreaLighting>True</UseRoomAreaLighting>
             <UseRoomAreaScaling>True</UseRoomAreaScaling>
             <Interactions>
-              <Event Index="0" />
-              <Event Index="1" />
+              <Event Index="0">cRoger_Look</Event>
+              <Event Index="1">cRoger_Interact</Event>
               <Event Index="2" />
               <Event Index="3" />
               <Event Index="4" />
