@@ -8,8 +8,7 @@
 #ifdef SCRIPT_API_v3507
 #define SCREEN_WIDTH Screen.Width
 #define SCREEN_HEIGHT Screen.Height
-#endif
-#ifndef SCRIPT_API_v3507
+#else
 #define SCREEN_WIDTH System.ViewportWidth
 #define SCREEN_HEIGHT System.ViewportHeight
 #endif
