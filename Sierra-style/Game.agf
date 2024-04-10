@@ -996,9 +996,9 @@
                 <Left>257</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>2137</MouseoverImage>
-                <Name>btnIconAbout</Name>
+                <Name>btnIconPanel</Name>
                 <NewModeNumber>0</NewModeNumber>
-                <OnClick>btnIconAbout_Click</OnClick>
+                <OnClick>btnIconPanel_Click</OnClick>
                 <PushedImage>2138</PushedImage>
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
