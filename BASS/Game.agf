@@ -743,14 +743,14 @@
                 <ID>0</ID>
                 <ItemHeight>20</ItemHeight>
                 <ItemWidth>23</ItemWidth>
-                <Left>10</Left>
+                <Left>40</Left>
                 <Locked>False</Locked>
                 <Name>invCustom</Name>
-                <Top>10</Top>
+                <Top>11</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>208</Width>
-                <ZOrder>0</ZOrder>
+                <ZOrder>1</ZOrder>
               </GUIInventory>
               <GUIButton>
                 <ClickAction>RunScript</ClickAction>
@@ -760,43 +760,18 @@
                 <Font>0</Font>
                 <Height>27</Height>
                 <ID>1</ID>
-                <Image>2144</Image>
-                <Left>254</Left>
+                <Image>6</Image>
+                <Left>253</Left>
                 <Locked>False</Locked>
-                <MouseoverImage>2145</MouseoverImage>
-                <Name>btnInvDown</Name>
+                <MouseoverImage>7</MouseoverImage>
+                <Name>btnInvRight</Name>
                 <NewModeNumber>0</NewModeNumber>
-                <OnClick>btnInvDown_OnClick</OnClick>
-                <PushedImage>2146</PushedImage>
-                <Text xml:space="preserve">New Button</Text>
+                <OnClick>btnInvRight_OnClick</OnClick>
+                <PushedImage>8</PushedImage>
+                <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>16</TextColor>
-                <Top>4</Top>
-                <Translated>True</Translated>
-                <Visible>True</Visible>
-                <Width>30</Width>
-                <ZOrder>1</ZOrder>
-              </GUIButton>
-              <GUIButton>
-                <ClickAction>RunScript</ClickAction>
-                <Clickable>True</Clickable>
-                <ClipImage>False</ClipImage>
-                <Enabled>True</Enabled>
-                <Font>0</Font>
-                <Height>27</Height>
-                <ID>2</ID>
-                <Image>2147</Image>
-                <Left>222</Left>
-                <Locked>False</Locked>
-                <MouseoverImage>2148</MouseoverImage>
-                <Name>btnInvUp</Name>
-                <NewModeNumber>0</NewModeNumber>
-                <OnClick>btnInvUp_OnClick</OnClick>
-                <PushedImage>2149</PushedImage>
-                <Text xml:space="preserve">New Button</Text>
-                <TextAlignment>TopCenter</TextAlignment>
-                <TextColor>16</TextColor>
-                <Top>4</Top>
+                <Top>7</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>30</Width>
@@ -809,23 +784,73 @@
                 <Enabled>True</Enabled>
                 <Font>0</Font>
                 <Height>27</Height>
-                <ID>3</ID>
-                <Image>2140</Image>
-                <Left>286</Left>
+                <ID>2</ID>
+                <Image>3</Image>
+                <Left>4</Left>
                 <Locked>False</Locked>
-                <MouseoverImage>2141</MouseoverImage>
-                <Name>btnExitGame</Name>
+                <MouseoverImage>4</MouseoverImage>
+                <Name>btnInvLeft</Name>
                 <NewModeNumber>0</NewModeNumber>
-                <OnClick>btnExitGame_OnClick</OnClick>
-                <PushedImage>2142</PushedImage>
-                <Text xml:space="preserve">New Button</Text>
+                <OnClick>btnInvLeft_OnClick</OnClick>
+                <PushedImage>5</PushedImage>
+                <Text />
                 <TextAlignment>TopCenter</TextAlignment>
-                <TextColor>0</TextColor>
-                <Top>4</Top>
+                <TextColor>16</TextColor>
+                <Top>7</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>30</Width>
                 <ZOrder>3</ZOrder>
+              </GUIButton>
+              <GUIButton>
+                <ClickAction>RunScript</ClickAction>
+                <Clickable>True</Clickable>
+                <ClipImage>False</ClipImage>
+                <Enabled>True</Enabled>
+                <Font>0</Font>
+                <Height>27</Height>
+                <ID>3</ID>
+                <Image>2136</Image>
+                <Left>285</Left>
+                <Locked>False</Locked>
+                <MouseoverImage>2137</MouseoverImage>
+                <Name>btnPanel</Name>
+                <NewModeNumber>0</NewModeNumber>
+                <OnClick>btnPanel_OnClick</OnClick>
+                <PushedImage>2138</PushedImage>
+                <Text />
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Top>7</Top>
+                <Translated>True</Translated>
+                <Visible>True</Visible>
+                <Width>30</Width>
+                <ZOrder>4</ZOrder>
+              </GUIButton>
+              <GUIButton>
+                <ClickAction>NoAction</ClickAction>
+                <Clickable>False</Clickable>
+                <ClipImage>False</ClipImage>
+                <Enabled>True</Enabled>
+                <Font>0</Font>
+                <Height>32</Height>
+                <ID>4</ID>
+                <Image>2</Image>
+                <Left>36</Left>
+                <Locked>False</Locked>
+                <MouseoverImage>0</MouseoverImage>
+                <Name>btnInventoryBg</Name>
+                <NewModeNumber>0</NewModeNumber>
+                <OnClick />
+                <PushedImage>0</PushedImage>
+                <Text />
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Top>5</Top>
+                <Translated>True</Translated>
+                <Visible>True</Visible>
+                <Width>215</Width>
+                <ZOrder>0</ZOrder>
               </GUIButton>
             </Controls>
           </GUIMain>
@@ -3977,6 +4002,111 @@
                   <OffsetY>0</OffsetY>
                   <ImportHeight>42</ImportHeight>
                   <ImportWidth>320</ImportWidth>
+                  <ImportAsTile>False</ImportAsTile>
+                  <Frame>0</Frame>
+                  <RemapToGamePalette>False</RemapToGamePalette>
+                  <RemapToRoomPalette>False</RemapToRoomPalette>
+                  <ImportMethod>LeaveAsIs</ImportMethod>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
+                </Source>
+              </Sprite>
+              <Sprite Slot="2" Width="215" Height="32" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                <Source>
+                  <FileName>Sprites/BASS/inventory_bg.png</FileName>
+                  <OffsetX>0</OffsetX>
+                  <OffsetY>0</OffsetY>
+                  <ImportHeight>32</ImportHeight>
+                  <ImportWidth>215</ImportWidth>
+                  <ImportAsTile>False</ImportAsTile>
+                  <Frame>0</Frame>
+                  <RemapToGamePalette>False</RemapToGamePalette>
+                  <RemapToRoomPalette>False</RemapToRoomPalette>
+                  <ImportMethod>LeaveAsIs</ImportMethod>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
+                </Source>
+              </Sprite>
+              <Sprite Slot="3" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                <Source>
+                  <FileName>Sprites/BASS/btn_arrowleft_normal.png</FileName>
+                  <OffsetX>0</OffsetX>
+                  <OffsetY>0</OffsetY>
+                  <ImportHeight>27</ImportHeight>
+                  <ImportWidth>30</ImportWidth>
+                  <ImportAsTile>False</ImportAsTile>
+                  <Frame>0</Frame>
+                  <RemapToGamePalette>False</RemapToGamePalette>
+                  <RemapToRoomPalette>False</RemapToRoomPalette>
+                  <ImportMethod>LeaveAsIs</ImportMethod>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
+                </Source>
+              </Sprite>
+              <Sprite Slot="4" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                <Source>
+                  <FileName>Sprites/BASS/btn_arrowleft_over.png</FileName>
+                  <OffsetX>0</OffsetX>
+                  <OffsetY>0</OffsetY>
+                  <ImportHeight>27</ImportHeight>
+                  <ImportWidth>30</ImportWidth>
+                  <ImportAsTile>False</ImportAsTile>
+                  <Frame>0</Frame>
+                  <RemapToGamePalette>False</RemapToGamePalette>
+                  <RemapToRoomPalette>False</RemapToRoomPalette>
+                  <ImportMethod>LeaveAsIs</ImportMethod>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
+                </Source>
+              </Sprite>
+              <Sprite Slot="5" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                <Source>
+                  <FileName>Sprites/BASS/btn_arrowleft_pressed.png</FileName>
+                  <OffsetX>0</OffsetX>
+                  <OffsetY>0</OffsetY>
+                  <ImportHeight>27</ImportHeight>
+                  <ImportWidth>30</ImportWidth>
+                  <ImportAsTile>False</ImportAsTile>
+                  <Frame>0</Frame>
+                  <RemapToGamePalette>False</RemapToGamePalette>
+                  <RemapToRoomPalette>False</RemapToRoomPalette>
+                  <ImportMethod>LeaveAsIs</ImportMethod>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
+                </Source>
+              </Sprite>
+              <Sprite Slot="6" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                <Source>
+                  <FileName>Sprites/BASS/btn_arrowright_normal.png</FileName>
+                  <OffsetX>0</OffsetX>
+                  <OffsetY>0</OffsetY>
+                  <ImportHeight>27</ImportHeight>
+                  <ImportWidth>30</ImportWidth>
+                  <ImportAsTile>False</ImportAsTile>
+                  <Frame>0</Frame>
+                  <RemapToGamePalette>False</RemapToGamePalette>
+                  <RemapToRoomPalette>False</RemapToRoomPalette>
+                  <ImportMethod>LeaveAsIs</ImportMethod>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
+                </Source>
+              </Sprite>
+              <Sprite Slot="7" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                <Source>
+                  <FileName>Sprites/BASS/btn_arrowright_over.png</FileName>
+                  <OffsetX>0</OffsetX>
+                  <OffsetY>0</OffsetY>
+                  <ImportHeight>27</ImportHeight>
+                  <ImportWidth>30</ImportWidth>
+                  <ImportAsTile>False</ImportAsTile>
+                  <Frame>0</Frame>
+                  <RemapToGamePalette>False</RemapToGamePalette>
+                  <RemapToRoomPalette>False</RemapToRoomPalette>
+                  <ImportMethod>LeaveAsIs</ImportMethod>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
+                </Source>
+              </Sprite>
+              <Sprite Slot="8" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                <Source>
+                  <FileName>Sprites/BASS/btn_arrowright_pressed.png</FileName>
+                  <OffsetX>0</OffsetX>
+                  <OffsetY>0</OffsetY>
+                  <ImportHeight>27</ImportHeight>
+                  <ImportWidth>30</ImportWidth>
                   <ImportAsTile>False</ImportAsTile>
                   <Frame>0</Frame>
                   <RemapToGamePalette>False</RemapToGamePalette>
