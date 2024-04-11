@@ -47,8 +47,8 @@
       <InventoryCursors>True</InventoryCursors>
       <InventoryHotspotMarkerCrosshairColor>63488</InventoryHotspotMarkerCrosshairColor>
       <InventoryHotspotMarkerDotColor>63488</InventoryHotspotMarkerDotColor>
-      <InventoryHotspotMarkerSprite>0</InventoryHotspotMarkerSprite>
-      <InventoryHotspotMarkerStyle>Crosshair</InventoryHotspotMarkerStyle>
+      <InventoryHotspotMarkerSprite>2059</InventoryHotspotMarkerSprite>
+      <InventoryHotspotMarkerStyle>Sprite</InventoryHotspotMarkerStyle>
       <LeftToRightPrecedence>True</LeftToRightPrecedence>
       <LetterboxMode>False</LetterboxMode>
       <MaximumScore>0</MaximumScore>
@@ -1690,8 +1690,8 @@
           <InventoryItem>
             <CursorImage>2041</CursorImage>
             <Description>Cup</Description>
-            <HotspotX>0</HotspotX>
-            <HotspotY>0</HotspotY>
+            <HotspotX>1</HotspotX>
+            <HotspotY>1</HotspotY>
             <ID>1</ID>
             <Image>2041</Image>
             <Name>iCup</Name>
@@ -1714,7 +1714,7 @@
             <CursorImage>2042</CursorImage>
             <Description>Key</Description>
             <HotspotX>1</HotspotX>
-            <HotspotY>5</HotspotY>
+            <HotspotY>1</HotspotY>
             <ID>2</ID>
             <Image>2042</Image>
             <Name>iKey</Name>
