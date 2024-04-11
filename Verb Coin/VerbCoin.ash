@@ -21,6 +21,7 @@ enum VerbCoinPosition {
 };
 
 struct VerbCoin {
+  import static attribute CursorMode DefaultCursorMode;
   import static attribute int Radius;
   import static attribute int BackgroundTransparency;
   import static attribute int BackgroundColor;
