@@ -46,6 +46,7 @@
 // pumpkins.
 
 struct TwoClickHandler {
+  import static attribute CursorMode DefaultCursorMode;
   import static attribute Label* ActionLabel;
   import static attribute GUI* InventoryGUI;
   import static attribute bool ReversedClicks;

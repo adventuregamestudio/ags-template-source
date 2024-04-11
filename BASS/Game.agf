@@ -1960,7 +1960,7 @@
         <HotspotX>0</HotspotX>
         <HotspotY>0</HotspotY>
         <ID>0</ID>
-        <Image>2061</Image>
+        <Image>0</Image>
         <Name xml:space="preserve">Walk to</Name>
         <StandardMode>True</StandardMode>
         <View>0</View>
@@ -1986,7 +1986,7 @@
         <HotspotX>0</HotspotX>
         <HotspotY>0</HotspotY>
         <ID>2</ID>
-        <Image>0</Image>
+        <Image>2061</Image>
         <Name>Interact</Name>
         <StandardMode>True</StandardMode>
         <View>0</View>
