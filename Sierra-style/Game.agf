@@ -43,7 +43,7 @@
       <GameTextEncoding>utf-8</GameTextEncoding>
       <Genre>Adventure</Genre>
       <GlobalSpeechAnimationDelay>5</GlobalSpeechAnimationDelay>
-      <HandleInvClicksInScript>False</HandleInvClicksInScript>
+      <HandleInvClicksInScript>True</HandleInvClicksInScript>
       <InventoryCursors>True</InventoryCursors>
       <InventoryHotspotMarkerCrosshairColor>5</InventoryHotspotMarkerCrosshairColor>
       <InventoryHotspotMarkerDotColor>6</InventoryHotspotMarkerDotColor>
