@@ -822,7 +822,7 @@
                 <ID>0</ID>
                 <Image>2160</Image>
                 <Left>10</Left>
-                <Locked>True</Locked>
+                <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnConfirmedQuit</Name>
                 <NewModeNumber>0</NewModeNumber>
@@ -869,7 +869,7 @@
                 <Height>23</Height>
                 <ID>2</ID>
                 <Left>24</Left>
-                <Locked>True</Locked>
+                <Locked>False</Locked>
                 <Name>lQuitWindowText</Name>
                 <Text xml:space="preserve">Are you sure you want to quit?</Text>
                 <TextAlignment>Left</TextAlignment>
@@ -1031,7 +1031,7 @@
                 <Height>22</Height>
                 <ID>0</ID>
                 <Left>8</Left>
-                <Locked>True</Locked>
+                <Locked>False</Locked>
                 <Name>lblRestoreText</Name>
                 <Text xml:space="preserve">Please choose the game that you want to restore:</Text>
                 <TextAlignment>Left</TextAlignment>
@@ -1052,7 +1052,7 @@
                 <ID>1</ID>
                 <Image>2160</Image>
                 <Left>183</Left>
-                <Locked>True</Locked>
+                <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnRestoreGame</Name>
                 <NewModeNumber>0</NewModeNumber>
@@ -1077,7 +1077,7 @@
                 <ID>2</ID>
                 <Image>2160</Image>
                 <Left>183</Left>
-                <Locked>True</Locked>
+                <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnCancelRestore</Name>
                 <NewModeNumber>0</NewModeNumber>
@@ -1143,7 +1143,7 @@
                 <Height>25</Height>
                 <ID>0</ID>
                 <Left>8</Left>
-                <Locked>True</Locked>
+                <Locked>False</Locked>
                 <Name>lblSaveText</Name>
                 <Text xml:space="preserve">Please choose the name to save this game as:</Text>
                 <TextAlignment>Left</TextAlignment>
@@ -1161,7 +1161,7 @@
                 <Height>15</Height>
                 <ID>1</ID>
                 <Left>6</Left>
-                <Locked>True</Locked>
+                <Locked>False</Locked>
                 <Name>txtNewSaveName</Name>
                 <OnActivate>txtNewSaveName_OnActivate</OnActivate>
                 <ShowBorder>True</ShowBorder>
@@ -1183,7 +1183,7 @@
                 <ID>2</ID>
                 <Image>2160</Image>
                 <Left>183</Left>
-                <Locked>True</Locked>
+                <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnSaveGame</Name>
                 <NewModeNumber>0</NewModeNumber>
@@ -1208,7 +1208,7 @@
                 <ID>3</ID>
                 <Image>2160</Image>
                 <Left>183</Left>
-                <Locked>True</Locked>
+                <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnCancelSave</Name>
                 <NewModeNumber>0</NewModeNumber>
@@ -1230,7 +1230,7 @@
                 <Height>102</Height>
                 <ID>4</ID>
                 <Left>6</Left>
-                <Locked>True</Locked>
+                <Locked>False</Locked>
                 <Name>lstSaveGamesList</Name>
                 <OnSelectionChanged>lstSaveGamesList_OnSelectionCh</OnSelectionChanged>
                 <SelectedBackgroundColor>19248</SelectedBackgroundColor>
@@ -1255,7 +1255,7 @@
                 <ID>5</ID>
                 <Image>2160</Image>
                 <Left>183</Left>
-                <Locked>True</Locked>
+                <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnDeleteSave</Name>
                 <NewModeNumber>0</NewModeNumber>
@@ -1302,7 +1302,7 @@
                 <ID>0</ID>
                 <Image>2160</Image>
                 <Left>8</Left>
-                <Locked>True</Locked>
+                <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnResume</Name>
                 <NewModeNumber>0</NewModeNumber>
@@ -1327,7 +1327,7 @@
                 <ID>1</ID>
                 <Image>2160</Image>
                 <Left>8</Left>
-                <Locked>True</Locked>
+                <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnSave</Name>
                 <NewModeNumber>0</NewModeNumber>
@@ -1352,7 +1352,7 @@
                 <ID>2</ID>
                 <Image>2160</Image>
                 <Left>8</Left>
-                <Locked>True</Locked>
+                <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnAbout</Name>
                 <NewModeNumber>0</NewModeNumber>
@@ -1377,7 +1377,7 @@
                 <ID>3</ID>
                 <Image>2160</Image>
                 <Left>8</Left>
-                <Locked>True</Locked>
+                <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnQuit2</Name>
                 <NewModeNumber>0</NewModeNumber>
@@ -1465,7 +1465,7 @@
                 <ID>7</ID>
                 <Image>2160</Image>
                 <Left>8</Left>
-                <Locked>True</Locked>
+                <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnDefault</Name>
                 <NewModeNumber>0</NewModeNumber>
@@ -1490,7 +1490,7 @@
                 <ID>8</ID>
                 <Image>2160</Image>
                 <Left>8</Left>
-                <Locked>True</Locked>
+                <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnLoad</Name>
                 <NewModeNumber>0</NewModeNumber>
@@ -1569,7 +1569,7 @@
                 <ID>12</ID>
                 <Image>2162</Image>
                 <Left>113</Left>
-                <Locked>True</Locked>
+                <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnVoice</Name>
                 <NewModeNumber>0</NewModeNumber>
@@ -1633,7 +1633,7 @@
                 <ID>15</ID>
                 <Image>2160</Image>
                 <Left>8</Left>
-                <Locked>True</Locked>
+                <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnRestart</Name>
                 <NewModeNumber>0</NewModeNumber>
