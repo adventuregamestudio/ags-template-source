@@ -40,4 +40,5 @@ struct VerbCoin {
   import static function IsOpen();
   import static function CleanUp();
   import static attribute bool ButtonAutoDisable;
+  import static attribute bool ShowOnlyIfInteractionAvailable;
 };
