@@ -1,6 +1,8 @@
 // Script header for module 'KeyboardMovement'
 
-#define KeyboardMovement_VERSION 104
+// This script is compatible with AGS 4
+
+#define KeyboardMovement_VERSION 105
 
 enum KeyboardMovementMode {
   eKeyboardMovementModeNone,
