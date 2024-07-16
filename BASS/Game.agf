@@ -3892,8 +3892,8 @@
                 <FileName>TwoClickHandler.asc</FileName>
                 <Name />
                 <Description />
-                <Author />
-                <Version />
+                <Author>Ghost, AGS team</Author>
+                <Version>2.6</Version>
                 <Key>1497392481</Key>
                 <IsHeader>False</IsHeader>
               </Script>
