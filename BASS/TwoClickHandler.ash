@@ -1,7 +1,7 @@
 // Script header for the "Lightweight BASS Template"
 //
 //
-// Version: 2.5
+// Version: 2.6
 //
 //
 // Author(s):
@@ -21,6 +21,8 @@
 // Dependencies:
 //   AGS 3.2 or later
 //
+// Compatibility:
+//   This script is compatible with AGS 4
 //
 // Licence:
 //
