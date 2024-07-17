@@ -1,0 +1,52 @@
+name: CI
+
+on: [push, pull_request, workflow_dispatch]
+
+jobs:
+  build-windows:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+
+      - name: gets ags-toolbox
+        run: |
+          curl -Lo atbx.exe https://github.com/ericoporto/agstoolbox/releases/download/0.5.0/atbx.exe
+          echo "${{github.workspace}}" | Out-File -FilePath $env:GITHUB_PATH -Encoding utf8 -Append
+
+      - name: Install AGS
+        run: |
+          atbx install editor -q BASS
+          atbx install editor -q "Empty Game"
+          atbx install editor -q Sierra-style
+          atbx install editor -q Tumbleweed
+          atbx install editor -q "Verb Coin"
+          
+      - name: Build BASS
+        run: atbx build ./BASS
+
+      - name: Build Sierra-style
+        run: atbx build ./Sierra-style
+
+      - name: Build Tumbleweed
+        run:  atbx build ./Tumbleweed
+
+      - name: Build Verb Coin
+        run: atbx build "./Verb Coin"
+
+      - name: Build Empty Game
+        continue-on-error: true
+        run: atbx build "./Empty Game"
+
+      - name: Upload Artifacts of Compiled AGS Games
+        uses: actions/upload-artifact@v4
+        with:
+          name: game-binaries
+          path: |
+            BASS/Compiled/*/*
+            Empty Game/Compiled/*/*
+            Sierra-style/Compiled/*/*
+            Tumbleweed/Compiled/*/*
+            Verb Coin/Compiled/*/*
