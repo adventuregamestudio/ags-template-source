@@ -1,4 +1,7 @@
 // Script header for VerbCoin script module
+
+// This script is compatible with AGS 4
+
 #define VERBCOIN_DEFAULT_RADIUS 38
 #define VERBCOIN_DEFAULT_BACKGROUND_TRANSPARENCY 80
 #define VERBCOIN_DEFAULT_BACKGROUND_COLOR 32089
