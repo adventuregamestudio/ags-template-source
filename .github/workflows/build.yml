@@ -13,7 +13,7 @@ jobs:
 
       - name: gets ags-toolbox
         run: |
-          curl -Lo atbx.exe https://github.com/ericoporto/agstoolbox/releases/download/0.5.0/atbx.exe
+          curl -Lo atbx.exe https://github.com/ericoporto/agstoolbox/releases/download/0.5.2/atbx.exe
           echo "${{github.workspace}}" | Out-File -FilePath $env:GITHUB_PATH -Encoding utf8 -Append
 
       - name: Install AGS
@@ -50,3 +50,33 @@ jobs:
             Sierra-style/Compiled/*/*
             Tumbleweed/Compiled/*/*
             Verb Coin/Compiled/*/*
+
+      - name: Create Templat Build dir
+        run: mkdir build
+
+      - name: Package BASS as Template
+        run: |
+          atbx export template ./BASS "BASS.agt" ./build
+
+      - name: Package Sierra-style as Template
+        run: |
+          atbx export template ./Sierra-style "Sierra-style.agt" ./build
+
+      - name: Package Tumbleweed as Template
+        run: |
+          atbx export template ./Tumbleweed "Tumbleweed.agt" ./build
+
+      - name: Package Verb Coin as Template
+        run: |
+          atbx export template "./Verb Coin" "Verb Coin.agt" ./build
+
+      - name: Package Empty Game as Template
+        run: |
+          atbx export template "./Empty Game" "Empty Game.agt" ./build
+
+      - name: Upload Artifacts of Templates
+        uses: actions/upload-artifact@v4
+        with:
+          name: templates
+          path: |
+            build/*.agt
