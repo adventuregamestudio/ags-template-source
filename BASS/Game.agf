@@ -1709,21 +1709,22 @@
     <FontFiles>
       <FontFile>
         <FileName>agsfnt0.wfn</FileName>
-        <SourceFilename>agsfnt0.wfn</SourceFilename>
+        <SourceFilename />
       </FontFile>
       <FontFile>
         <FileName>agsfnt1.wfn</FileName>
-        <SourceFilename>agsfnt1.wfn</SourceFilename>
+        <SourceFilename />
       </FontFile>
       <FontFile>
         <FileName>agsfnt2.wfn</FileName>
-        <SourceFilename>agsfnt2.wfn</SourceFilename>
+        <SourceFilename />
       </FontFile>
     </FontFiles>
     <Fonts>
       <Font>
         <AutoOutlineStyle>Squared</AutoOutlineStyle>
         <AutoOutlineThickness>1</AutoOutlineThickness>
+        <FontFileName>agsfnt0.wfn</FontFileName>
         <ID>0</ID>
         <LineSpacing>0</LineSpacing>
         <Name xml:space="preserve">Font 0</Name>
@@ -1731,13 +1732,13 @@
         <OutlineStyle>None</OutlineStyle>
         <PointSize>0</PointSize>
         <SizeMultiplier>1</SizeMultiplier>
-        <SourceFilename>agsfnt0.wfn</SourceFilename>
         <TTFMetricsFixup>None</TTFMetricsFixup>
         <VerticalOffset>0</VerticalOffset>
       </Font>
       <Font>
         <AutoOutlineStyle>Squared</AutoOutlineStyle>
         <AutoOutlineThickness>1</AutoOutlineThickness>
+        <FontFileName>agsfnt1.wfn</FontFileName>
         <ID>1</ID>
         <LineSpacing>0</LineSpacing>
         <Name xml:space="preserve">Font 1</Name>
@@ -1745,13 +1746,13 @@
         <OutlineStyle>UseOutlineFont</OutlineStyle>
         <PointSize>0</PointSize>
         <SizeMultiplier>1</SizeMultiplier>
-        <SourceFilename>agsfnt1.wfn</SourceFilename>
         <TTFMetricsFixup>None</TTFMetricsFixup>
         <VerticalOffset>0</VerticalOffset>
       </Font>
       <Font>
         <AutoOutlineStyle>Squared</AutoOutlineStyle>
         <AutoOutlineThickness>1</AutoOutlineThickness>
+        <FontFileName>agsfnt2.wfn</FontFileName>
         <ID>2</ID>
         <LineSpacing>0</LineSpacing>
         <Name xml:space="preserve">Font 2</Name>
@@ -1759,7 +1760,6 @@
         <OutlineStyle>None</OutlineStyle>
         <PointSize>0</PointSize>
         <SizeMultiplier>1</SizeMultiplier>
-        <SourceFilename>agsfnt2.wfn</SourceFilename>
         <TTFMetricsFixup>None</TTFMetricsFixup>
         <VerticalOffset>0</VerticalOffset>
       </Font>
