@@ -1,3 +1,4 @@
 [submodule "Tumbleweed"]
 	path = Tumbleweed
 	url = https://github.com/dkrey/ags_tumbleweed
+	branch = master
