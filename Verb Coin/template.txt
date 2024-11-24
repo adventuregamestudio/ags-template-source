@@ -1,1 +1,3 @@
-"Modernized VerbCoin"
+VerbCoin
+
+This template contains an interface similar to the ones seen in games like Full Throttle and The Curse of Monkey Island. Left-clicking on a character, hotspot, or object brings up a circular menu, the VerbCoin, displaying buttons for actions such as Talk, Interact, Look, and Pick Up. You can also optionally disable unavailable actions. Right-click opens the inventory window, which uses BASS-style controls.
