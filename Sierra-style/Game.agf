@@ -52,7 +52,7 @@
       <ReleaseDate>2022-03-01</ReleaseDate>
       <RenderAtScreenResolution>UserDefined</RenderAtScreenResolution>
       <RoomTransition>FadeOutAndIn</RoomTransition>
-      <RunGameLoopsWhileDialogOptionsDisplayed>False</RunGameLoopsWhileDialogOptionsDisplayed>
+      <RunGameLoopsWhileDialogOptionsDisplayed>True</RunGameLoopsWhileDialogOptionsDisplayed>
       <SaveGameFileExtension />
       <SaveGameFolderName>Sierra-style</SaveGameFolderName>
       <SaveScreenshots>False</SaveScreenshots>

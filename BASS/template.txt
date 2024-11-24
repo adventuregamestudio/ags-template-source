@@ -1,1 +1,3 @@
-"Lightweight BASS Stub"
+BASS
+
+This template provides a simplified two-click interface, inspired by the game Beneath A Steel Sky. It uses Left-click to perform interactions, and right-click for the Look verb. The UI has a top bar that has the inventory with items already integrated for quick item selection, and an options button that allows accessing a pane with game options and the save/load interface.
