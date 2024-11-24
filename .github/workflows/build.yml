@@ -56,23 +56,23 @@ jobs:
 
       - name: Package BASS as Template
         run: |
-          atbx export template ./BASS "BASS.agt" ./build
+          atbx export template -f ./BASS "BASS.agt" ./build
 
       - name: Package Sierra-style as Template
         run: |
-          atbx export template ./Sierra-style "Sierra-style.agt" ./build
+          atbx export template -f ./Sierra-style "Sierra-style.agt" ./build
 
       - name: Package Tumbleweed as Template
         run: |
-          atbx export template ./Tumbleweed "Tumbleweed.agt" ./build
+          atbx export template -f ./Tumbleweed "Tumbleweed.agt" ./build
 
       - name: Package Verb Coin as Template
         run: |
-          atbx export template "./Verb Coin" "Verb Coin.agt" ./build
+          atbx export template -f "./Verb Coin" "Verb Coin.agt" ./build
 
       - name: Package Empty Game as Template
         run: |
-          atbx export template "./Empty Game" "Empty Game.agt" ./build
+          atbx export template -f "./Empty Game" "Empty Game.agt" ./build
 
       - name: Upload Artifacts of Templates
         uses: actions/upload-artifact@v4
