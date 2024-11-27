@@ -94,7 +94,7 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/v')
         shell: bash
         env:
-          TEMPLATES_OWNER: ericoporto
+          TEMPLATES_OWNER: adventuregamestudio
           BRANCH_NAME: master
           CI_USER: ags-templates-ci
           CI_TOKEN: ${{ secrets.TEMPLATES_CI_TOKEN }}
