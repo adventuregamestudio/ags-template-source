@@ -89,3 +89,24 @@ jobs:
           allowUpdates: true
           omitBodyDuringUpdate: true
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push to ags-templates repo
+        if: startsWith(github.ref, 'refs/tags/v')
+        shell: bash
+        env:
+          TEMPLATES_OWNER: ericoporto
+          BRANCH_NAME: master
+          CI_USER: ags-templates-ci
+          CI_TOKEN: ${{ secrets.TEMPLATES_CI_TOKEN }}
+        run: |
+          echo "${BRANCH_NAME}"
+          git clone https://${CI_USER}:${CI_TOKEN}@github.com/${TEMPLATES_OWNER}/ags-templates
+          cd ags-templates
+          git checkout "${BRANCH_NAME}"
+          cp ../build/*agt Templates/
+          git config user.name "ags-templates-ci"
+          git config user.email "189680431+ags-templates-ci@users.noreply.github.com"
+          git add Templates/*.agt
+          git commit -m "synced templates" -m "Sync from tag ${GITHUB_REF_NAME}, created by ${GITHUB_TRIGGERING_ACTOR}" -m "originated from ${GITHUB_REPOSITORY}, tracking commit ${GITHUB_SHA}, in run ${GITHUB_RUN_NUMBER} of workflow ID ${GITHUB_RUN_ID}."
+          git push origin "${BRANCH_NAME}"
+          git push "https://${CI_USER}:${CI_TOKEN}@github.com/${TEMPLATES_OWNER}/ags-templates" --set-upstream "${BRANCH_NAME}"
