@@ -51,7 +51,7 @@ jobs:
             Tumbleweed/Compiled/*/*
             Verb Coin/Compiled/*/*
 
-      - name: Create Templat Build dir
+      - name: Create Templates Build dir
         run: mkdir build
 
       - name: Package BASS as Template
@@ -81,11 +81,15 @@ jobs:
           path: |
             build/*.agt
 
+      - name: Zip Templates
+        run: |
+          powershell Compress-Archive -Path build/*.agt -DestinationPath build/templates.zip
+
       - name: Create release and upload assets
         if: startsWith(github.ref, 'refs/tags/v')
         uses: ncipollo/release-action@v1
         with:
-          artifacts: build/*.agt
+          artifacts: build/templates.zip
           allowUpdates: true
           omitBodyDuringUpdate: true
           token: ${{ secrets.GITHUB_TOKEN }}
