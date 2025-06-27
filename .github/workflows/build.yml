@@ -5,6 +5,7 @@ on: [push, pull_request, workflow_dispatch]
 jobs:
   build-windows:
     runs-on: windows-latest
+    timeout-minutes: 10
 
     steps:
       - uses: actions/checkout@v4
@@ -13,7 +14,7 @@ jobs:
 
       - name: gets ags-toolbox
         run: |
-          curl -Lo atbx.exe https://github.com/ericoporto/agstoolbox/releases/download/0.5.5/atbx.exe
+          curl -Lo atbx.exe https://github.com/ericoporto/agstoolbox/releases/download/0.5.6/atbx.exe
           echo "${{github.workspace}}" | Out-File -FilePath $env:GITHUB_PATH -Encoding utf8 -Append
 
       - name: Install AGS
@@ -25,20 +26,20 @@ jobs:
           atbx install editor -q "Verb Coin"
           
       - name: Build BASS
-        run: atbx build ./BASS
+        run: atbx build --timeout=300 ./BASS
 
       - name: Build Sierra-style
-        run: atbx build ./Sierra-style
+        run: atbx build --timeout=300 ./Sierra-style
 
       - name: Build Tumbleweed
-        run:  atbx build ./Tumbleweed
+        run:  atbx build --timeout=300 ./Tumbleweed
 
       - name: Build Verb Coin
-        run: atbx build "./Verb Coin"
+        run: atbx build --timeout=300 "./Verb Coin"
 
       - name: Build Empty Game
         continue-on-error: true
-        run: atbx build "./Empty Game"
+        run: atbx build --timeout=300 "./Empty Game"
 
       - name: Upload Artifacts of Compiled AGS Games
         uses: actions/upload-artifact@v4
