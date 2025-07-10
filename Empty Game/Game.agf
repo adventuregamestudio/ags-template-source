@@ -35,14 +35,14 @@
       <FaceDirectionRatio>1</FaceDirectionRatio>
       <GUIDAsString>{8e93a1f9-56d9-4014-b72e-6ae4c896c474}</GUIDAsString>
       <GUIHandleOnlyLeftMouseButton>False</GUIHandleOnlyLeftMouseButton>
-      <GameFPS>40</GameFPS>
+      <GameFPS>60</GameFPS>
       <GameFileName xml:space="preserve">Empty Game</GameFileName>
       <GameName xml:space="preserve">Empty Game</GameName>
       <GameTextEncoding>utf-8</GameTextEncoding>
       <GameTextLanguage>en_US</GameTextLanguage>
       <Genre>Adventure</Genre>
       <GlobalSpeechAnimationDelay>5</GlobalSpeechAnimationDelay>
-      <HandleInvClicksInScript>False</HandleInvClicksInScript>
+      <HandleInvClicksInScript>True</HandleInvClicksInScript>
       <InventoryCursors>True</InventoryCursors>
       <InventoryHotspotMarkerCrosshairColor>0xFF000000</InventoryHotspotMarkerCrosshairColor>
       <InventoryHotspotMarkerDotColor>0xFF000000</InventoryHotspotMarkerDotColor>
@@ -71,7 +71,7 @@
       <TextWindowGUI>0</TextWindowGUI>
       <ThoughtGUI>0</ThoughtGUI>
       <TurnBeforeFacing>False</TurnBeforeFacing>
-      <TurnBeforeWalking>True</TurnBeforeWalking>
+      <TurnBeforeWalking>False</TurnBeforeWalking>
       <UniqueID>545051</UniqueID>
       <UseGlobalSpeechAnimationDelay>False</UseGlobalSpeechAnimationDelay>
       <UseOldKeyboardHandling>False</UseOldKeyboardHandling>
