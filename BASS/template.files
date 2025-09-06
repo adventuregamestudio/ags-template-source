@@ -12,7 +12,7 @@ sprindex.dat
 # Fonts in their folder since AGS 4.0
 Fonts/*.ttf
 Fonts/*.wfn
-# Room as folders since AGS 4.0
+# Rooms as folders since AGS 4.0
 Rooms/*/data.xml
 Rooms/*/*.png
 Rooms/*/room*.asc
