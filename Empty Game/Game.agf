@@ -18,7 +18,7 @@
       <BuildTargets>Windows</BuildTargets>
       <ClipGUIControls>True</ClipGUIControls>
       <ColorDepth>TrueColor</ColorDepth>
-      <CompressSpritesType>None</CompressSpritesType>
+      <CompressSpritesType>Deflate</CompressSpritesType>
       <CustomDataDir IsNull="True" />
       <CustomResolution>320,200</CustomResolution>
       <DebugMode>True</DebugMode>
