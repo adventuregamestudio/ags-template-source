@@ -100,7 +100,7 @@ jobs:
         shell: bash
         env:
           TEMPLATES_OWNER: adventuregamestudio
-          BRANCH_NAME: master
+          BRANCH_NAME: release-3.6.2
           CI_USER: ags-templates-ci
           CI_TOKEN: ${{ secrets.TEMPLATES_CI_TOKEN }}
         run: |
