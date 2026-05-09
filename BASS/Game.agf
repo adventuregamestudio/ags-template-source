@@ -2476,7 +2476,7 @@
         <ID>0</ID>
         <Image>0</Image>
         <Name xml:space="preserve">Walk to</Name>
-        <StandardMode>True</StandardMode>
+        <StandardMode>False</StandardMode>
         <View>0</View>
       </MouseCursor>
       <MouseCursor>
@@ -2489,7 +2489,7 @@
         <ID>1</ID>
         <Image>0</Image>
         <Name xml:space="preserve">Look at</Name>
-        <StandardMode>True</StandardMode>
+        <StandardMode>False</StandardMode>
         <View>0</View>
       </MouseCursor>
       <MouseCursor>
@@ -2515,7 +2515,7 @@
         <ID>3</ID>
         <Image>0</Image>
         <Name xml:space="preserve">Talk to</Name>
-        <StandardMode>True</StandardMode>
+        <StandardMode>False</StandardMode>
         <View>0</View>
       </MouseCursor>
       <MouseCursor>
