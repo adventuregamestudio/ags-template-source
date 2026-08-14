@@ -1,4 +1,4 @@
 [submodule "Tumbleweed"]
 	path = Tumbleweed
 	url = https://github.com/dkrey/ags_tumbleweed
-	branch = master
+	branch = release-3.6.2
