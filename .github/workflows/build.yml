@@ -107,6 +107,10 @@ jobs:
       contents: write
 
     steps:
+      - uses: actions/checkout@v6
+        with:
+          submodules: true
+          persist-credentials: false
 
       - name: Download templates zip
         uses: actions/download-artifact@v8
